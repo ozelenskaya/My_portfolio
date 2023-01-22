@@ -1,9 +1,10 @@
 # My_portfolio
-My actuall portfolio for applying position of data analyst. Contains main completed training and test tasks.
+В своем портфолио я собрала выполненные учебные и тестовые работы, которые дают представление о моем уровне владения Excel и навыках написания запросов на PostgreSQL. 
+
 <body>
     <table>
     <tr>
-<td><b>Name</td>	<td><b>Description</td>	<td><b>Hard skills</td></tr>
+<td><b>Название</td>	<td><b>Описание</td>	<td><b>Инструменты и навыки</td></tr>
 <tr>
 <td><b><a href="https://docs.google.com/spreadsheets/d/1kzQ-OpjhRx4Mf66YfNGGpSZPDq0F3rgu/edit#gid=888464823">Анализ системы подписки онлайн кинотеатра</a></td>	<td>Сбор калькулятора юнит-экономики, анализ структуры продукта и активности клиентов, расчет сценария выхода на плановую маржинальность</td>	<td>Средства анализа данных и визуализации Excel, расчет бизнес-метрик, сбор калькулятора</td></tr>
 <tr>
